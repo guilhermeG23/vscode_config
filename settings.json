@@ -1,0 +1,9 @@
+{
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "editor.tabSize": 8,
+"editor.detectIndentation": false,
+"editor.insertSpaces": false,
+"editor.comments.insertSpace": false,
+"workbench.startupEditor": "none"
+}
